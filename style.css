@@ -1,0 +1,58 @@
+body{
+	background: url("bg.jpeg");
+	background-position: center;
+	background-size: cover;
+}
+
+#playerlogin1, #playerlogin2 {
+	margin-top: 30px;
+	background: linear-gradient(#FF61D2, #FE9090);
+	padding: 10px;
+	float: none;
+	border-radius: 15px;
+	margin-left: 150px;
+	margin-right: 150px;
+	margin-bottom: 10px;
+}
+
+#player1_name_in, #player2_name_in {
+	display: inline-block;
+	width: 30%;
+}
+
+#player1_name, #player2_name {
+	display: inline-block;
+}	
+
+#login {
+	width: 10%;
+	height: 7%;
+	background: linear-gradient(#FF5F6D, #FFC371);
+	color: white;
+	font-weight: bold;
+	font-size: medium;
+}
+
+#output {
+	background: white;
+	border-radius: 10px;
+	border-top: 10px solid #AA4465;
+	padding: 10px;
+	float: none;
+	text-align: left;
+	margin-bottom: 50px;
+	width: 65%;
+}
+
+#number_1, #number_2 {
+	width: 40%;
+}
+
+#send_btn {
+	width: 10%;
+	height: 7%;
+	background: linear-gradient(#FF5F6D, #FFC371);
+	color: white;
+	font-weight: bold;
+	font-size: medium;
+}
