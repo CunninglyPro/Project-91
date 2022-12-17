@@ -25,5 +25,5 @@ function send() {
 
     document.getElementById("output").innerHTML = row;
     document.getElementById("number_1").value = "";
-    document.getElementById("number_1").value = "";
+    document.getElementById("number_2").value = "";
 }
